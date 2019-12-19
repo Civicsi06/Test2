@@ -1,5 +1,5 @@
 Middletown South Eagles, MTS
-OL,Bradley Bozeman,24,2018,64,60,82,80,74,72,0.6,4
+OL,Delmer Loya,24,2018,84,94,86,71,92,75,0.6,4
 OL,Hroniss Grasu,27,2015,64,74,83,78,72,69,0.8,1
 OL,Matt Skura,25,2017,65,71,85,86,71,71,0.6,1
 CB,Anthony Averett,24,2018,70,55,87,72,94,50,0.8,4
